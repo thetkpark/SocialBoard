@@ -27,7 +27,7 @@ app.get('/', (req, res) => {
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.2.0/css/bootstrap.css">
-            <title>Social Shareboard for MS Build 2020 Student Zone!</title>
+            <title>Social Shareboard for Week of Build 2020</title>
         </head>
         <body>
             <div class="jumbotron">
